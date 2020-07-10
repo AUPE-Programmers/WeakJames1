@@ -1,0 +1,14 @@
+class Main {
+    public static void main(String[] args) {
+        /**
+         * Instructions:  
+         * Edit the string on Line number 10.  Replace <my name> with your name.
+         * For instance:
+         * If my name was Wonder Woman, the line 10 will look like:
+         * String welcome = "Welcome to Wonder Woman Repository \n Select from the menu below:";
+         */
+        String welcome = "Welcome to <my name> Repository \n Select from the menu below:";
+
+        System.out.println(welcome);
+    }
+}
