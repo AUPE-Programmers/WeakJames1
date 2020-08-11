@@ -1,0 +1,83 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - PaycheckCalculator",
+        "request": "launch",
+        "mainClass": "homeworkreal4.PaycheckCalculator",
+        "projectName": "WeakJames1_bec6558e"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - fourth3",
+        "request": "launch",
+        "mainClass": "homeworkreal4.fourth3",
+        "projectName": "WeakJames1_bec6558e"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - fourth2",
+        "request": "launch",
+        "mainClass": "homeworkreal4.fourth2",
+        "projectName": "WeakJames1_bec6558e"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - fourth",
+        "request": "launch",
+        "mainClass": "homeworkreal4.fourth",
+        "projectName": "WeakJames1_bec6558e"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - Statement",
+        "request": "launch",
+        "mainClass": "homework4.Statement",
+        "projectName": "WeakJames1_bec6558e"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - InterestEarnedCalculator",
+        "request": "launch",
+        "mainClass": "InterestEarnedCalculator",
+        "projectName": "WeakJames1_bec6558e"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - App",
+        "request": "launch",
+        "mainClass": "App",
+        "projectName": "WeakJames1_bec6558e"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - Statement",
+        "request": "launch",
+        "mainClass": "Statement",
+        "projectName": "WeakJames1_bec6558e"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - statement",
+        "request": "launch",
+        "mainClass": "statement",
+        "projectName": "WeakJames1_bec6558e"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - Passwordvalidation",
+        "request": "launch",
+        "mainClass": "third.Passwordvalidation",
+        "projectName": "WeakJames1_bec6558e"
+    },
+    {
+        "type": "java",
+        "name": "Debug (Launch) - Current File",
+        "request": "launch",
+        "mainClass": "${file}"
+    }
+]
+}
